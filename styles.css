@@ -358,8 +358,9 @@ img {
 
 .avatar-frame {
   position: relative;
-  width: min(42vw, 136px);
-  aspect-ratio: 1;
+  width: 136px;
+  max-width: 42vw;
+  height: 136px;
   padding: 10px;
   border-radius: 999px;
   background:
