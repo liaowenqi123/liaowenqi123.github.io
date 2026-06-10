@@ -406,16 +406,6 @@ img {
   letter-spacing: 0.04em;
 }
 
-.avatar-meta small {
-  display: block;
-  margin-top: 6px;
-  color: #ffe2f4;
-  font-size: 0.82rem;
-  font-weight: 800;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-}
-
 .profile-list {
   display: grid;
   gap: 14px;
